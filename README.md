@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=domi4662&hide=contribs,prs)
 <!--
 **domi4662/domi4662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
